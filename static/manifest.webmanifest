@@ -4,9 +4,9 @@
     "display": "standalone",
     "scope": "/",
     "start_url": "/",
-    "name": "Terbium",
-    "short_name": "webOS",
-    "description": "The Terbium Web App!",
+    "name": "Terbium education",
+    "short_name": "lessons",
+    "description": "Terbium education",
     "icons": [
         {
             "src": "./resources/icon-192x192.png",
